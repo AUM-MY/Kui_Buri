@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 from time import sleep
 import time
 
-#time.sleep(60)
+time.sleep(60)
 
 BLYNK_AUTH = 'GQNVXrn_3gXzL1F1Ca-efx9Dr_Alklmo'
 
